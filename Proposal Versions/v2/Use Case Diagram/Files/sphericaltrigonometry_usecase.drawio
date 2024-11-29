@@ -1,0 +1,79 @@
+<mxfile host="Electron" modified="2024-11-28T05:07:41.427Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.1 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="vwo9GsANsD1Q_o5Re4dw" version="24.6.1" type="device">
+  <diagram name="Page-1" id="JFPJkxZZSjxiJD6og031">
+    <mxGraphModel dx="89" dy="1730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_TZs-UMcsAIsMrrE9qfW-21" value="Include Module :&lt;div&gt;Spherical Trigonometry&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="880" y="-420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_TZs-UMcsAIsMrrE9qfW-22" value="Calculate Time of&lt;div&gt;Celestial Objects&lt;br&gt;&lt;div&gt;Rise and Set&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="-290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_TZs-UMcsAIsMrrE9qfW-23" value="Calculate Celestial&lt;div&gt;Objects Positions on&lt;div&gt;Celestial Sphere&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="-420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_TZs-UMcsAIsMrrE9qfW-24" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_TZs-UMcsAIsMrrE9qfW-21" target="_TZs-UMcsAIsMrrE9qfW-22">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="970" y="-490" as="sourcePoint" />
+            <mxPoint x="1060" y="-530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_TZs-UMcsAIsMrrE9qfW-25" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_TZs-UMcsAIsMrrE9qfW-21" target="_TZs-UMcsAIsMrrE9qfW-27">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="980" y="-490" as="sourcePoint" />
+            <mxPoint x="1067.573593128807" y="-438.7867965644034" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_TZs-UMcsAIsMrrE9qfW-26" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_TZs-UMcsAIsMrrE9qfW-21" target="_TZs-UMcsAIsMrrE9qfW-23">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="980" y="-480" as="sourcePoint" />
+            <mxPoint x="1070" y="-520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_TZs-UMcsAIsMrrE9qfW-27" value="Solve Spherical&lt;div&gt;Trigonometry Triangle&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="-490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_TZs-UMcsAIsMrrE9qfW-28" value="Calculate Angles" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="-540" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_TZs-UMcsAIsMrrE9qfW-29" value="Calculate Edges" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="-480" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_TZs-UMcsAIsMrrE9qfW-30" value="Calculate&lt;div&gt;Formules of Sine&lt;div&gt;and Cosine&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="-420" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_TZs-UMcsAIsMrrE9qfW-31" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_TZs-UMcsAIsMrrE9qfW-27" target="_TZs-UMcsAIsMrrE9qfW-28">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1210" y="-470" as="sourcePoint" />
+            <mxPoint x="1270" y="-530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_TZs-UMcsAIsMrrE9qfW-32" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_TZs-UMcsAIsMrrE9qfW-27" target="_TZs-UMcsAIsMrrE9qfW-29">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1170" y="-410" as="sourcePoint" />
+            <mxPoint x="1287" y="-459" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_TZs-UMcsAIsMrrE9qfW-33" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_TZs-UMcsAIsMrrE9qfW-27" target="_TZs-UMcsAIsMrrE9qfW-30">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1170" y="-391" as="sourcePoint" />
+            <mxPoint x="1260" y="-380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_TZs-UMcsAIsMrrE9qfW-34" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_TZs-UMcsAIsMrrE9qfW-23" target="_TZs-UMcsAIsMrrE9qfW-22">
+          <mxGeometry x="0.1429" width="160" relative="1" as="geometry">
+            <mxPoint x="1181" y="-330" as="sourcePoint" />
+            <mxPoint x="1120" y="-305" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_TZs-UMcsAIsMrrE9qfW-35" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_TZs-UMcsAIsMrrE9qfW-34">
+          <mxGeometry x="-0.1918" y="-2" relative="1" as="geometry">
+            <mxPoint x="2" y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

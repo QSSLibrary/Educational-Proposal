@@ -1,0 +1,17 @@
+v1 :
++ An Introduction to QSS Library
++ A Brief Introduction to Potential Subsystems
++ Presentation of Challenges and Limitations of the QSSL
++ Presentation of Expectations and Features of the QSSL
++ Introduction to Skills and Expertise
++ Introduction to Methods and Tools
++ Cost Estimation
++ Time and Scheduling Estimation
++ Beneficiaries Desires
+- Change positions of university and QSSL logo
+- remove some of images because proposal is a step before doing a project, it is just proposal
+
+v2 :
++ Huge use case diagram
+- Database must be as an Actor, not action, because database is service provider and service provider must be an actor
+- I must change directions of include, extend and generalization arrows i used rule backward
