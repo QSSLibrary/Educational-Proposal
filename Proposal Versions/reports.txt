@@ -8,10 +8,17 @@ v1 :
 + Cost Estimation
 + Time and Scheduling Estimation
 + Beneficiaries Desires
-- Change positions of university and QSSL logo
+- Change positions of university and QSSL logos
 - remove some of images because proposal is a step before doing a project, it is just proposal
 
 v2 :
-+ Huge use case diagram
-- Database must be as an Actor, not action, because database is service provider and service provider must be an actor
-- I must change directions of include, extend and generalization arrows i used rule backward
++ Huge and detailed use case diagram
++ Change positions of university and QSSL logos
++ remove some of images because proposal is a step before doing a project, it is just proposal
+- Add database actor, Database must be as an Actor, not action, because database is service provider and service provider must be an actor
+- change directions of include, extend and generalization arrows because i used backward rule
+
+v3 :
++ Add database actor, Database must be as an Actor, not action, because database is service provider and service provider must be an actor
++ change directions of include, extend and generalization arrows because i used backward rule
++ Use actor generalization for some of actors

@@ -1,0 +1,148 @@
+<mxfile host="Electron" modified="2024-12-18T16:16:31.295Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.1 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="kgiOTt0onZHIavoawSQw" version="24.6.1" type="device">
+  <diagram name="Page-1" id="JFPJkxZZSjxiJD6og031">
+    <mxGraphModel dx="89" dy="1730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_TZs-UMcsAIsMrrE9qfW-43" value="Include Module :&lt;div&gt;Astrophysics&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="880" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_TZs-UMcsAIsMrrE9qfW-44" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_TZs-UMcsAIsMrrE9qfW-43" target="_TZs-UMcsAIsMrrE9qfW-45" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="980" y="40" as="sourcePoint" />
+            <mxPoint x="1067.573593128807" y="91.2132034355966" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_TZs-UMcsAIsMrrE9qfW-45" value="Analyse Physical&lt;div&gt;Propetries of&lt;/div&gt;&lt;div&gt;Celestial Objects&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="1050" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_TZs-UMcsAIsMrrE9qfW-46" value="" style="endArrow=none;endSize=16;endFill=0;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;startArrow=block;startFill=0;startSize=16;" parent="1" source="_TZs-UMcsAIsMrrE9qfW-45" target="_TZs-UMcsAIsMrrE9qfW-47" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1210" y="60" as="sourcePoint" />
+            <mxPoint x="1213.3328051985645" y="24.209638692951557" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_TZs-UMcsAIsMrrE9qfW-47" value="Calculate Physical&lt;div&gt;Information of&lt;/div&gt;&lt;div&gt;Celestial Objects&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="-20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_TZs-UMcsAIsMrrE9qfW-48" value="Calculate&lt;div&gt;Temperature&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="-120" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_TZs-UMcsAIsMrrE9qfW-49" value="Calculate&lt;div&gt;Luminosity&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="1390" y="-80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_TZs-UMcsAIsMrrE9qfW-50" value="Calculate&lt;div&gt;Mass&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="1410" y="-30" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_TZs-UMcsAIsMrrE9qfW-51" value="Calculate&lt;div&gt;Age&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="1410" y="20" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_TZs-UMcsAIsMrrE9qfW-52" value="Analyse Chemical&lt;div&gt;Compund&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="1390" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_TZs-UMcsAIsMrrE9qfW-53" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=open;startFill=0;" parent="1" source="_TZs-UMcsAIsMrrE9qfW-47" target="_TZs-UMcsAIsMrrE9qfW-48" edge="1">
+          <mxGeometry x="-0.0735" y="30" width="160" relative="1" as="geometry">
+            <mxPoint x="1310" y="-20" as="sourcePoint" />
+            <mxPoint x="1390" y="-20" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_TZs-UMcsAIsMrrE9qfW-54" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.038;entryY=0.505;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=open;startFill=0;" parent="1" source="_TZs-UMcsAIsMrrE9qfW-58" target="_TZs-UMcsAIsMrrE9qfW-52" edge="1">
+          <mxGeometry x="-0.2755" y="10" width="160" relative="1" as="geometry">
+            <mxPoint x="1312" y="-51" as="sourcePoint" />
+            <mxPoint x="1373" y="-106" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_TZs-UMcsAIsMrrE9qfW-55" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=open;startFill=0;" parent="1" source="_TZs-UMcsAIsMrrE9qfW-47" target="_TZs-UMcsAIsMrrE9qfW-51" edge="1">
+          <mxGeometry x="0.3933" y="-30" width="160" relative="1" as="geometry">
+            <mxPoint x="1312" y="41" as="sourcePoint" />
+            <mxPoint x="1357" y="110" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_TZs-UMcsAIsMrrE9qfW-56" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=open;startFill=0;" parent="1" source="_TZs-UMcsAIsMrrE9qfW-47" target="_TZs-UMcsAIsMrrE9qfW-49" edge="1">
+          <mxGeometry x="0.1429" y="14" width="160" relative="1" as="geometry">
+            <mxPoint x="1330" y="20" as="sourcePoint" />
+            <mxPoint x="1410" y="70" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_TZs-UMcsAIsMrrE9qfW-57" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=open;startFill=0;" parent="1" source="_TZs-UMcsAIsMrrE9qfW-47" target="_TZs-UMcsAIsMrrE9qfW-50" edge="1">
+          <mxGeometry x="0.3333" y="-20" width="160" relative="1" as="geometry">
+            <mxPoint x="1340" y="30" as="sourcePoint" />
+            <mxPoint x="1420" y="80" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_TZs-UMcsAIsMrrE9qfW-58" value="Spectroscopy and&lt;div&gt;Atomic Physics&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_TZs-UMcsAIsMrrE9qfW-59" value="Analyse&lt;div&gt;Spectral Lines&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="1390" y="140" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_TZs-UMcsAIsMrrE9qfW-60" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=open;startFill=0;" parent="1" source="_TZs-UMcsAIsMrrE9qfW-58" target="_TZs-UMcsAIsMrrE9qfW-59" edge="1">
+          <mxGeometry x="-0.1034" y="-29" width="160" relative="1" as="geometry">
+            <mxPoint x="1330" y="140" as="sourcePoint" />
+            <mxPoint x="1397" y="110" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_TZs-UMcsAIsMrrE9qfW-61" value="" style="endArrow=none;endSize=16;endFill=0;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;startArrow=block;startFill=0;startSize=16;" parent="1" source="_TZs-UMcsAIsMrrE9qfW-45" target="_TZs-UMcsAIsMrrE9qfW-58" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1162" y="59" as="sourcePoint" />
+            <mxPoint x="1219" y="34" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_TZs-UMcsAIsMrrE9qfW-62" value="Analyse&lt;div&gt;Thermodynamics&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_TZs-UMcsAIsMrrE9qfW-63" value="Analyse Heat" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="1420" y="250" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_TZs-UMcsAIsMrrE9qfW-64" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=open;startFill=0;" parent="1" source="_TZs-UMcsAIsMrrE9qfW-62" target="_TZs-UMcsAIsMrrE9qfW-63" edge="1">
+          <mxGeometry x="0.25" y="-20" width="160" relative="1" as="geometry">
+            <mxPoint x="1320" y="270" as="sourcePoint" />
+            <mxPoint x="1396" y="290" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_TZs-UMcsAIsMrrE9qfW-65" value="Analyse&lt;div&gt;Energy Balance&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="1370" y="200" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_TZs-UMcsAIsMrrE9qfW-66" value="Temperature&lt;div&gt;Gradients&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="1370" y="300" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_TZs-UMcsAIsMrrE9qfW-67" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;startArrow=open;startFill=0;" parent="1" source="_TZs-UMcsAIsMrrE9qfW-62" target="_TZs-UMcsAIsMrrE9qfW-65" edge="1">
+          <mxGeometry x="-0.1146" y="16" width="160" relative="1" as="geometry">
+            <mxPoint x="1330" y="280" as="sourcePoint" />
+            <mxPoint x="1410" y="280" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_TZs-UMcsAIsMrrE9qfW-68" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;dashed=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;startArrow=open;startFill=0;" parent="1" target="_TZs-UMcsAIsMrrE9qfW-66" edge="1">
+          <mxGeometry x="0.1565" y="-34" width="160" relative="1" as="geometry">
+            <mxPoint x="1320" y="270" as="sourcePoint" />
+            <mxPoint x="1393" y="244" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_TZs-UMcsAIsMrrE9qfW-69" value="" style="endArrow=none;endSize=16;endFill=0;html=1;rounded=0;exitX=0.912;exitY=0.813;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;startArrow=block;startFill=0;startSize=16;exitPerimeter=0;" parent="1" source="_TZs-UMcsAIsMrrE9qfW-45" target="_TZs-UMcsAIsMrrE9qfW-62" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1180" y="80" as="sourcePoint" />
+            <mxPoint x="1228" y="119" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_TZs-UMcsAIsMrrE9qfW-70" value="Analyse Nuclear,&lt;div&gt;Electromagnetic and&lt;/div&gt;&lt;div&gt;Quantom Propetries&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_TZs-UMcsAIsMrrE9qfW-71" value="" style="endArrow=none;endSize=16;endFill=0;html=1;rounded=0;exitX=0.75;exitY=0.965;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=block;startFill=0;startSize=16;exitPerimeter=0;" parent="1" source="_TZs-UMcsAIsMrrE9qfW-45" target="_TZs-UMcsAIsMrrE9qfW-70" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1160" y="100" as="sourcePoint" />
+            <mxPoint x="1207" y="279" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
