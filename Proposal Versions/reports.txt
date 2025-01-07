@@ -9,16 +9,32 @@ v1 :
 + Time and Scheduling Estimation
 + Beneficiaries Desires
 - Change positions of university and QSSL logos
-- remove some of images because proposal is a step before doing a project, it is just proposal
+- Remove some of images because proposal is a step before doing a project, it is just proposal
 
 v2 :
 + Huge and detailed use case diagram
 + Change positions of university and QSSL logos
-+ remove some of images because proposal is a step before doing a project, it is just proposal
++ Remove some of images because proposal is a step before doing a project, it is just proposal
 - Add database actor, Database must be as an Actor, not action, because database is service provider and service provider must be an actor
-- change directions of include, extend and generalization arrows because i used backward rule
+- Change directions of include, extend and generalization arrows because i used backward rule
 
 v3 :
 + Add database actor, Database must be as an Actor, not action, because database is service provider and service provider must be an actor
-+ change directions of include, extend and generalization arrows because i used backward rule
++ Change directions of include, extend and generalization arrows because i used backward rule
 + Use actor generalization for some of actors
+
+v4 :
++ Add activity diagram
++ Add activity diagram to proposal
+
+v5 :
++ Add class diagram
++ Add sequence diagram
++ Add sequence diagram to proposal
++ Add class diagram to proposal
+
+v6 :
++ Add er diagram according to postgresql er diagram visualization
++ Add er diagram to proposal
++ Finalize proposal
++ Create a2 paper of diageams
